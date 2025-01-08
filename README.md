@@ -15,7 +15,7 @@ Frontend: Built with Flutter using BLoC architecture for state management.
 Backend: Deployed on a dedicated server using Node.js, Socket.IO, and MongoDB.
 ![Backend Deployment](assets/Backend.png)
 Authentication: JWT-based secure authentication.
-Demo Gif :- ![Chat App Demo](assets/chat_demo.gif)
+Demo Gif :- ![Chat App Demo](assets/Demo.gif)
 Screenshots- 
 ![SplashScreen](assets/SplashScreen.png)
 ![LoginScreen](assets/LoginScreen.png)
