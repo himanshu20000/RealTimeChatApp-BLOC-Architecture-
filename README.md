@@ -13,6 +13,7 @@ Lightweight Backend: Efficient and fast backend using Socket.IO and MongoDB.
 📂 Project Structure
 Frontend: Built with Flutter using BLoC architecture for state management.
 Backend: Deployed on a dedicated server using Node.js, Socket.IO, and MongoDB.
+![Backend Deployment](assets/Backend.png)
 Authentication: JWT-based secure authentication.
 Demo Gif :- ![Chat App Demo](assets/chat_demo.gif)
 Screenshots- 
